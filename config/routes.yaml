@@ -1,0 +1,3 @@
+i-am-alive:
+  path: /adapter/comments/i-am-alive
+  controller: App\IamAliveController::handle
